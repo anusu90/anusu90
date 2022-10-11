@@ -10,7 +10,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anusu90&repo=LEETCODE)](https://github.com/anusu90/LEETCODE)
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
