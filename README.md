@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on *
 - 📫 email me at: anusu90@gmail.com
 
-[![Anunay's GitHub stats](https://github-readme-stats.vercel.app/api?username=anusu90)](https://github.com/anuraghazra/github-readme-stats)
+[![Anunay's GitHub stats](https://github-readme-stats.vercel.app/api?username=anusu90)](https://github.com/anusu90)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anusu90)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anusu90)](https://github.com/anusu90)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anusu90&repo=LEETCODE)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anusu90&repo=LEETCODE)](https://github.com/anusu90/LEETCODE)
 
 
 
